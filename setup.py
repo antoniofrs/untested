@@ -9,7 +9,7 @@ setup(
     author_email='antoniofrisenda.dev@gmail.com',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://link-al-tuo-repository-git',
+    url='https://github.com/antoniofrs/untested.git',
     install_requires=[
         'requests==2.31.0'
     ]
