@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: untested
+Version: 0.1.0
+Home-page: https://github.com/antoniofrs/untested.git
+Author: Antonio Frisenda
+Author-email: antoniofrisenda.dev@gmail.com
+Description-Content-Type: text/markdown
+Requires-Dist: requests==2.31.0
+
+# Untested

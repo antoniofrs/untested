@@ -1,0 +1,10 @@
+README.md
+pyproject.toml
+setup.py
+untested/__init__.py
+untested/sender.py
+untested.egg-info/PKG-INFO
+untested.egg-info/SOURCES.txt
+untested.egg-info/dependency_links.txt
+untested.egg-info/requires.txt
+untested.egg-info/top_level.txt
